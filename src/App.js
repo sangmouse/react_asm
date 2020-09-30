@@ -111,7 +111,7 @@ const App = () => {
             <InputNumber
               min={1}
               max={10}
-              defaultValue={1}
+              defaultValue={0}
               onChange={onInputNumber}
             />
           </>
@@ -150,7 +150,7 @@ const App = () => {
                 <InputNumber
                   min={1}
                   max={10}
-                  defaultValue={1}
+                  defaultValue={0}
                   // onChange={onServing}
                 />
               </Col>
