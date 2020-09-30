@@ -1,0 +1,9 @@
+@import '~antd/dist/antd.css';
+
+
+.btn-add {
+  display: block;
+  margin-top: 30px;
+ 
+}
+
